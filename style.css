@@ -12,11 +12,13 @@
             font-size:1.1em;
         }
         #school-pic {
-           display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
-        }
+              #school-pic {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 80%;
+            border: 6px double grey
+                }
         body {
             background-color:tan;
         }
