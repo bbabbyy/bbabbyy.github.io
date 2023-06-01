@@ -25,6 +25,7 @@
           h3 {
             text-align:center;
             font-size:2em;
+            text-decoration: underline;
         }
         
     #panther {
@@ -38,3 +39,10 @@
          border: 10px groove grey
          
     }
+  #flower {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+            border: 10px ridge grey
+        }
