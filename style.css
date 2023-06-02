@@ -37,7 +37,10 @@
     }
     #basketball-pic {
          border: 10px groove grey
-         
+         display: block;
+         margin-left: auto;
+         margin-right: auto;
+         height: 300px; 
     }
   #flower {
             display: block;
