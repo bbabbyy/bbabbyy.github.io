@@ -16,7 +16,7 @@
             margin-left: auto;
             margin-right: auto;
             width: 80%;
-            border: 6px double grey
+            border: 6px double grey;
                 }
         body {
             background-color:tan;
@@ -33,7 +33,7 @@
         margin-left: auto;
         margin-right: auto;
         width: 50%;
-        border: 10px groove grey
+        border: 10px groove grey;
     }
     #basketball-pic {
          border: 10px groove grey
@@ -47,5 +47,5 @@
             margin-left: auto;
             margin-right: auto;
             width: 50%;
-            border: 10px ridge grey
+            border: 10px ridge grey;
         }
