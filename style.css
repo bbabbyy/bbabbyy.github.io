@@ -51,3 +51,10 @@
             width: 50%;
             border: 10px ridge grey;
         }
+#economics {
+      display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 80%;
+            border: 6px inset grey;    
+}
