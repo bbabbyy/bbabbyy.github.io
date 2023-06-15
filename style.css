@@ -12,8 +12,9 @@
             font-size:1.2em;
             margin-right:130px;
             margin-left:130px;
-            border-style: outset black;
-            fill:brown;
+            border-style: outset;
+            border-color: black;
+            background-color:brown;
         }
         #school-pic {
             display: block;
