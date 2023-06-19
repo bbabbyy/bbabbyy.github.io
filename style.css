@@ -22,12 +22,6 @@
             width: 80%;
             border: 6px double grey;
                 }
-  #class-pic {
-             position: absolute;
-                top:650px;
-                left:20px;
-              border: 6px double grey;
-        }
 #children  {
        display: block;
             margin-left: auto;
