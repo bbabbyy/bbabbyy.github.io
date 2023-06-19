@@ -28,7 +28,14 @@
                 left:20px;
               border: 6px double grey;
         }
-    </style>
+#children  {
+       display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 60%;
+            border: 8px dashed;  
+}
+   
         body {
             background-color:tan;
         }
